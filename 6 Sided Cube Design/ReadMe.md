@@ -1,0 +1,1 @@
+In this project, we were handed a plastic cube in which we had to create specific types of designs using different aspects from MasterCAM. Once the designs were complete, we would run the cuts on CNC machines (Tormach).
